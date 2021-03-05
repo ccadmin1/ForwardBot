@@ -26,5 +26,5 @@ class Config(object):
     **Command :** /uptime
     **Usage :** Check uptime of Bot.
     
-    Bot is created by @lal_bakthan and @subinps
+    Bot maintained by @DhashamoolamDhamu
     """
